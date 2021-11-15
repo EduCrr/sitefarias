@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@400;800&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+  transition: all ease 0.5s;
+}
+
+body {
+  background-color: #fbfbff;
+  transition: all ease 0.5s;
+}
+body::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: #022248;
+}
+body::-moz-scrollbar {
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+}
+body::-moz-scrollbar-thumb {
+  background-color: #022248;
+}
+p {
+  color: white;
+  line-height: 30px !important;
+  font-family: "Lato", sans-serif !important;
+}
+@keyframes moveInLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-10rem);
+  }
+  70% {
+    transform: translateX(1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/*
+  background: radial-gradient(ellipse at left, #2b3485 40%, #0e1127 85%);
+
+cinza escuro #1a1f23
+cinza fraco #333b42
+azul #0080ff
+font-family: 'Montserrat', sans-serif;
+*/
