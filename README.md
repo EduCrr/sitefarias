@@ -1,8 +1,11 @@
+
+<p align="center">
 http://detetivefarias.com.br/
+</p>
 
 <p align="center">
 Após meses de estudo, coloquei em prática meus conhecimentos em React JS, Html e css. 
-Site criado para um cliente que tinha como propósito em expor seus serviços para o mundo digital.
+Site criado para um cliente que tinha como propósito expor seus serviços para o mundo digital.
 </p>
 
 <h1 align="center">Objetivo do projeto</h1>
