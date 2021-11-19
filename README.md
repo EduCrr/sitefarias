@@ -4,7 +4,7 @@ http://detetivefarias.com.br/
 </p>
 
 <p align="center">
-Após meses de estudo, coloquei em prática meus conhecimentos em React JS, Html e css. 
+Após meses de estudo, coloquei em prática meus conhecimentos em React JS, Html e Css. 
 Site criado para um cliente que tinha como propósito expor seus serviços para o mundo digital.
 </p>
 
